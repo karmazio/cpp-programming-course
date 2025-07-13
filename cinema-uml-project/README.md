@@ -4,7 +4,7 @@
 System that allows end-user to watch the movies online by either renting them for the limited period of time or buying the right to watch them without limits.
 
 ## Diagrams
-- [Use Case](): depicts the most common cases of using the service by three main categories of the users: guests, registered users and admins
+- [Use Case](https://github.com/karmazio/cpp-programming-course/blob/master/cinema-uml-project/diagrams/use-case.png): depicts the most common cases of using the service by three main categories of the users: guests, registered users and admins
 - [Class](): depicts the main classes that exist within the system and the ways they interract
 - [Sequence-1](): depicts the logic behind buying the movie by the authorised user
 - [Sequence-1](): depicts the sequence of adding a new movie to the system by the administrator
