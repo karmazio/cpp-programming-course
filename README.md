@@ -12,6 +12,7 @@ This repository contains my homework assignments from my C++ Programming Course.
 - [HW #3: RAII and smart pointers](./homework-03/) - [working with writing to an external text document]
 - [HW #4: Multhithreading basics](./homework-04/) - [parallel calculations of the results of mathematical operations and the order processing system]
 - [HW #5: Synchronization and thread safety](./homework-05/) - [parallel operations with the banking system and statistics]
+- [HW #7: Cinema UML Project](./cinema-uml-project/) - [UML diagrams]
 
 ## How to start
 
