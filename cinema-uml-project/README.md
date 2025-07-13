@@ -17,5 +17,5 @@ The system should be equiped with a service to store and show various media such
 
 The movie object should have various attributes that can be used to filter the search by the user and to create a suggestions based on the user's preferences.
 
-## Інструменти
+## Tools
 draw.io
